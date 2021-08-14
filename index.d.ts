@@ -48,6 +48,8 @@ declare class SplitPane extends React.Component<Props, State> {
     setSize(props: Props, state: State): void;
 
     static defaultProps: Props;
+
+    static Pane: any;
 }
 
 export default SplitPane;
