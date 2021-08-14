@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import prefixAll from 'inline-style-prefixer/static';
 
-import { getUnit, convertSizeToCssValue } from './SplitPane';
+import { getUnit, convertSizeToCssValue } from './utils';
 
 function PaneStyle({ split, initialSize, size, minSize, maxSize, resizersSize }) {
   const value = size || initialSize;

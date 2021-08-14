@@ -1,9 +1,9 @@
 {
-  "name": "react-split-pane",
+  "name": "react-split-pane-v2",
   "description": "React split-pane component",
   "main": "index.js",
   "types": "index.d.ts",
-  "version": "2.0.3",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomkp/react-split-pane"
