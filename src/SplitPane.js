@@ -393,4 +393,6 @@ SplitPane.defaultProps = {
   allowResize: true
 };
 
+SplitPane.Pane = SplitPane;
+
 export default SplitPane;
